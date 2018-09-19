@@ -1,0 +1,7 @@
+c:\users\armando\source\repos\wcfAhorcado\WsAhorcado\bin\WsAhorcado.dll.config
+c:\users\armando\source\repos\wcfAhorcado\WsAhorcado\bin\WsAhorcado.dll
+c:\users\armando\source\repos\wcfAhorcado\WsAhorcado\bin\WsAhorcado.pdb
+c:\users\armando\source\repos\wcfAhorcado\WsAhorcado\obj\Debug\WsAhorcado.csproj.CoreCompileInputs.cache
+c:\users\armando\source\repos\wcfAhorcado\WsAhorcado\obj\Debug\WsAhorcado.dll
+c:\users\armando\source\repos\wcfAhorcado\WsAhorcado\obj\Debug\WsAhorcado.pdb
+C:\Users\Armando\source\repos\wcfAhorcado\WsAhorcado\obj\Debug\WsAhorcado.csprojAssemblyReference.cache

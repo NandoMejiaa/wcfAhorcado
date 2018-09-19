@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsAhorcado", "WsAhorcado\WsAhorcado.csproj", "{9A3B8078-6EE5-439B-B738-98D33AC1DBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppAhorcadoCliente", "WebAppAhorcadoCliente\WebAppAhorcadoCliente.csproj", "{A6CBB44B-1EA1-431D-B878-442CECD3553A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9A3B8078-6EE5-439B-B738-98D33AC1DBFA} = {9A3B8078-6EE5-439B-B738-98D33AC1DBFA}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3B8078-6EE5-439B-B738-98D33AC1DBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3B8078-6EE5-439B-B738-98D33AC1DBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3B8078-6EE5-439B-B738-98D33AC1DBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3B8078-6EE5-439B-B738-98D33AC1DBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CBB44B-1EA1-431D-B878-442CECD3553A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CBB44B-1EA1-431D-B878-442CECD3553A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CBB44B-1EA1-431D-B878-442CECD3553A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CBB44B-1EA1-431D-B878-442CECD3553A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C21017-F7CC-4C7F-B7D5-C07B59460DDA}
+	EndGlobalSection
+EndGlobal
